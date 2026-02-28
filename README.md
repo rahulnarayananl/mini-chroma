@@ -416,7 +416,3 @@ rm -rf ./data
 ## License
 
 MIT
-
-## Credits
-
-Built from scratch to demonstrate ChromaDB's lightweight architecture without PyTorch dependencies.
